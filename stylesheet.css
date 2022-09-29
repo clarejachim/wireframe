@@ -143,7 +143,7 @@ body{
     .sideBar2 { grid-area: 3 / 1 / 4 / 2; }
     .main1 { grid-area: 4 / 1 / 5 / 2; }
     .aside { grid-area: 5 / 1 / 6 / 2; }
-    .sideBar3 { grid-area: 5 / 1 / 13 / 2; }
+    .sideBar3 { grid-area: 5 / 1 / 6 / 2; }
     .sideBar4 { grid-area: 6 / 1 / 7 / 2; }
     .sideBar5 { grid-area: 7 / 1 / 8 / 2; }
     .main2 { grid-area: 8 / 1 / 9 / 2; }
