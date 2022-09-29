@@ -8,6 +8,7 @@ body{
     grid-template-rows: repeat(5, 1fr);
     font-family:'Courier';
     text-align: center;
+    font-size: 80px; 
     justify-content: center;
     color: white;
     height:100vh;
